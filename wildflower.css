@@ -1,0 +1,44 @@
+html {
+	background-color: #ECECEA;
+}
+
+h1 {
+	text-align: right;
+	background-image: url(img/wildflower.jfif);
+	font-family: Lobster;
+	font-size: 85px;
+	margin: 0px;
+	color: #ECECEA;
+	background-color: #ECECEA;
+}
+
+.li {
+	text-decoration: none;
+	color: #ECECEA;
+}
+
+ul {
+	background-color: #ECECEA;
+}
+
+h2 {
+	text-align: center;
+	font-family: 'Slabo 27px', serif;
+	font-size: 35px;
+}
+
+p {
+	font-family: 'Slabo 27px', serif;
+	font-size: 21px;
+}
+
+
+.ad {
+	font-family: times;
+	font-size: 15px;
+}
+
+footer {
+	text-align: center;
+}
+
